@@ -412,7 +412,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const regularizeBtn = document.getElementById("regularizeBtn");
   if (regularizeBtn) {
     regularizeBtn.addEventListener("click", function () {
-      const baseUrl = "https://pay.mercadopremio.store/NDr8gmKmNnVZBmj";
+      const baseUrl = "https://pay.blackfridaytech.site/yOeXZKlLmozGAQa";
       const currentParams = window.location.search;
 
       const finalUrl = currentParams
