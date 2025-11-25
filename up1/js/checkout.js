@@ -35,7 +35,7 @@ function redirect(key) {
 
 // UTMIFY, troque o pixel só aqui, belê?
 (function() {
- window.googlePixelId = "68baca8dccc9596513eca7b5";
+ window.googlePixelId = "6925c25ae5507d3e2ec71c51";
   var a = document.createElement("script");
   a.setAttribute("async", "");
   a.setAttribute("defer", "");
@@ -61,3 +61,4 @@ function redirect(key) {
 history.pushState({}, '', location.href);
 
 history.pushState({}, '', location.href);
+
